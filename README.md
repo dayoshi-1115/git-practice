@@ -4,3 +4,4 @@
 rebase-practiceブランチで更新（conflict発生）
 rebase pull用
 stash練習
+untrach stash練習
